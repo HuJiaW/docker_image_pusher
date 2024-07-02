@@ -11,6 +11,7 @@ centos:centos6
 ubuntu:rolling
 ubuntu:latest
 ubuntu:24.04
+ubuntu:18.04
 php:8.3.9RC1-zts-alpine
 php:8.3-rc-fpm-alpine3.20
 php:8.2-rc-cli-alpine
