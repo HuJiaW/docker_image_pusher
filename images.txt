@@ -31,3 +31,4 @@ httpd:2.4.59-alpine3.20
 memcached:alpine3.20
 memcached:alpine
 busybox:latest
+docker pull registry:latest
